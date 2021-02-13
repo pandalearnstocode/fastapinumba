@@ -1,3 +1,10 @@
+## Run
+
+```
+ uvicorn main:app --reload
+locust --host=http://127.0.0.1:8000
+```
+
 ## Resources:
 
 * Numba: https://www.youtube.com/watch?v=mDsTkg_IpUk
