@@ -8,5 +8,5 @@ setup(
     author_email='pandalearnstocode@gmail.com',
     description='Stress testing concurrency of REST APIs using numeric computing stack',
     packages=find_packages(),    
-    install_requires=['numpy',, 'numba'],
+    install_requires=['numpy', 'numba'],
 )
